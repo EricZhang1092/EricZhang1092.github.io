@@ -1,1 +1,2 @@
-### Only a small Diray-Blog. /p thanks for reading.
+### Only a small Diray-Blog. 
+### Thanks for reading.
